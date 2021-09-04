@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote82
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote82
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f38c9003bbeef5346ac9a48c6fc270fd
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 75c0b35757fcfdb44b7586caa9e61787, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6e2b0318e1ad3db438f5380f923bfca2, type: 2}
+    - {fileID: 11400000, guid: 03bedd1127406794aae05686b6cff485, type: 2}
